@@ -21,8 +21,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!--  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsontcm69&amp;layout=compact)
 -->
-
-
-## My repo
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin?username=wilsontcm69&amp;repo=wilsontcm69&amp;title_color=fff&amp;icon_color=f9f9f9&amp;text_color=9f9f9f&amp;bg_color=151515" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin?username=wilsontcm69&amp;repo=wilsontcm69&amp;title_color=fff&amp;icon_color=f9f9f9&amp;text_color=9f9f9f&amp;bg_color=151515" />
